@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.qqbot.icu/"
+    "link": "https://blog.qqbot.icu"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://kafuka.love/"
+    "link": "https://kafuka.love"
   },
   {
     "icon": "github加速",
@@ -22,16 +22,16 @@
   {
     "icon": "pic",
     "name": "图床",
-    "link": "https://pic.ph.qqbot.icu/"
+    "link": "https://pic.ph.qqbot.icu"
   },
   {
     "icon": "kxsw",
     "name": "科学.上网",
-    "link": "https://tz.v2.qqbot.icu/54324d5f-c3a3-47ba-8837-7ed8a885e765/"
+    "link": "https://tz.v2.qqbot.icu/54324d5f-c3a3-47ba-8837-7ed8a885e765"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.kafuka.love/"
+    "link": "https://status.kafuka.love"
   }
 ]
