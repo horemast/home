@@ -58,8 +58,8 @@ const getHitokotoData = async () => {
         fill: "#efefef",
       }),
     });
-    hitokotoData.text = "这里应该显示一句话";
-    hitokotoData.from = "無名";
+    hitokotoData.text = "好好享用每一顿饭，因为它们永远值得细细品味";
+    hitokotoData.from = "筱梦";
   }
 };
 
