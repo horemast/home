@@ -40,8 +40,8 @@ const openMusicShow = ref(false);
 
 // 一言数据
 const hitokotoData = reactive({
-  text: "这里应该显示一句话",
-  from: "無名",
+  text: "众口难调，开心就好",
+  from: "筱梦",
 });
 
 // 获取一言数据
