@@ -6,7 +6,7 @@
         <span class="name">
           {{ siteName }}
         </span>
-        <span class="tip"> 加载中 </span>
+        <span class="tip"> 筱梦正在努力为您打开网页，请稍后QWQ </span>
       </div>
     </div>
     <div class="loader-section section-left" />
