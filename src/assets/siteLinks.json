@@ -34,4 +34,9 @@
     "name": "docker加速",
     "link": "https://docker.qqbot.icu"
   }
+  {
+    "icon": "Compass",
+    "name": "在线ssh",
+    "link": "https://ssh.qqbot.icu/ssh/node"
+  },
 ]
