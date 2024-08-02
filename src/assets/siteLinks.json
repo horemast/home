@@ -38,5 +38,10 @@
     "icon": "Compass",
     "name": "在线ssh",
     "link": "https://ssh.qqbot.icu/ssh/node"
+  },
+  {
+    "icon": "Fire",
+    "name": "公益GPT4o",
+    "link": "http://chat.qqbot.icu"
   }
 ]
