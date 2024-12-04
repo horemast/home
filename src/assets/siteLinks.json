@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "http://horemast.github.io"
+    "link": "https://md.qqbot.icu/123456/http://horemast.github.io"
   },
   {
     "icon": "Compass",
@@ -31,7 +31,7 @@
   },
   {
     "icon": "Cloud",
-    "name": "docker加速",
+    "name": "dockerhub镜像",
     "link": "https://docker.qqbot.icu"
   },
   {
