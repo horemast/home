@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://md.qqbot.icu/123456/https/horemast.github.io"
+    "link": "https://horemast.github.io"
   },
   {
     "icon": "Compass",
     "name": "学术反代镜像",
-    "link": "https://md.qqbot.icu/123456/"
+    "link": "https://mirror.310105.xyz/123456/"
   },
   {
     "icon": "LaptopCode",
@@ -26,12 +26,12 @@
   },
   {
     "icon": "Book",
-    "name": "视频检索站",
+    "name": "影视剧检索",
     "link": "https://tv.310105.xyz"
   },
   {
     "icon": "Cloud",
-    "name": "dockerhub镜像",
+    "name": "dockerhub镜像站",
     "link": "https://docker.qqbot.icu"
   },
   {
