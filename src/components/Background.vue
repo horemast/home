@@ -43,7 +43,7 @@ const changeBg = (type) => {
   } else if (type == 1) {
     bgUrl.value = "https://api.dujin.org/bing/1920.php";
   } else if (type == 2) {
-    bgUrl.value = "https://v.api.aa1.cn/api/api-meiribizhi/api.php";
+    bgUrl.value = "https://img.8845.top/acg/loli2.php";
   } else if (type == 3) {
     bgUrl.value = "https://browser9.qhimg.com/bdm/1600_900_85/t016ad88ddaf2ae2d92.jpg";
   }
