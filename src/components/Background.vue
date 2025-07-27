@@ -43,9 +43,9 @@ const changeBg = (type) => {
   } else if (type == 1) {
     bgUrl.value = "https://api.dujin.org/bing/1920.php";
   } else if (type == 2) {
-    bgUrl.value = "https://api.aixiaowai.cn/gqapi/gqapi.php";
+    bgUrl.value = "https://v.api.aa1.cn/api/api-meiribizhi/api.php";
   } else if (type == 3) {
-    bgUrl.value = "https://api.aixiaowai.cn/api/api.php";
+    bgUrl.value = "https://v.api.aa1.cn/api/api-meiribizhi/api.php";
   }
 };
 
