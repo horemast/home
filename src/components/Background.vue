@@ -45,7 +45,7 @@ const changeBg = (type) => {
   } else if (type == 2) {
     bgUrl.value = "https://v.api.aa1.cn/api/api-meiribizhi/api.php";
   } else if (type == 3) {
-    bgUrl.value = "https://v.api.aa1.cn/api/api-meiribizhi/api.php";
+    bgUrl.value = "https://api.52vmy.cn/api/img/tu/pc";
   }
 };
 
