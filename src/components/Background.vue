@@ -45,7 +45,7 @@ const changeBg = (type) => {
   } else if (type == 2) {
     bgUrl.value = "https://v.api.aa1.cn/api/api-meiribizhi/api.php";
   } else if (type == 3) {
-    bgUrl.value = "https://api.52vmy.cn/api/img/tu/pc";
+    bgUrl.value = "https://browser9.qhimg.com/bdm/1600_900_85/t016ad88ddaf2ae2d92.jpg";
   }
 };
 
